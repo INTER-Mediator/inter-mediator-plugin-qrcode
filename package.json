@@ -1,6 +1,6 @@
 {
   "name": "inter-mediator-plugin-qrcode",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "INTER-Mediator plug-in for QRCode.",
   "main": "index.js",
   "scripts": {
