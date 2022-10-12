@@ -55,7 +55,7 @@ IMParts_Catalog.qrcode = {
         function (err, canvas) {
           if (err) {
             console.log(err)
-            throw err
+            //throw err
           }
         })
     }
