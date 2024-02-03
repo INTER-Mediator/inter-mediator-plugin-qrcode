@@ -9,7 +9,7 @@ eval(fs.readFileSync('./index.js').toString());
 
 test('Object exists, and has fundamental methods.', () => {
   expect(typeof IMParts_Catalog.qrcode).toBe('object')
-  expect(typeof IMParts_Catalog.qrcode.instanciate).toBe('function')
+  expect(typeof IMParts_Catalog.qrcode.instantiate).toBe('function')
   expect(typeof IMParts_Catalog.qrcode.finish).toBe('function')
   }
 )
